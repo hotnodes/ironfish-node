@@ -1,2 +1,2 @@
 # ironfish-node
-Script to automatically install ironfish node
+Script for automatically install ironfish node
